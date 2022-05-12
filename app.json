@@ -1,12 +1,12 @@
 {
     "name": "lz",
-    "description": "Deploy lz on Heroku.",
+    "description": "Deploy v2ray on Heroku.",
     "keywords": [
-        "lz"
+        "v2ray"
     ],
     "env": {
         "UUID": {
-            "description": "lz UUID",
+            "description": "v2ray UUID",
             "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
         },
         "TUNNEL_TOKEN": {
