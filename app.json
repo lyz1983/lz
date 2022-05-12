@@ -1,12 +1,12 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "lz",
+    "description": "Deploy lz on Heroku.",
     "keywords": [
-        "V2Ray"
+        "lz"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
+            "description": "lz UUID",
             "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
         },
         "TUNNEL_TOKEN": {
@@ -14,7 +14,7 @@
             "required": false
         }
     },
-    "website": "https://github.com/zizifn/v2ray-heroku",
-    "repository": "https://github.com/zizifn/v2ray-heroku",
+    "website": "https://github.com/lyz1983/lz",
+    "repository": "https://github.com/lyz1983/lz",
     "stack": "container"
 }
